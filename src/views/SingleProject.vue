@@ -38,30 +38,26 @@ export default {
 				},
 			],
 			projectInfo: {
-				clientHeading: 'About Client',
+				clientHeading: 'About',
 				companyInfos: [
 					{
 						id: 1,
-						title: 'Name',
-						details: 'Company Ltd',
+						title: 'Course',
+						details: 'BackEnd Developer Expert',
 					},
 					{
 						id: 2,
-						title: 'Services',
-						details: 'UI Design & Frontend Development',
+						title: 'Academy',
+						details: 'Dicoding Indonesia',
 					},
 					{
 						id: 3,
 						title: 'Website',
-						details: 'https://company.com',
-					},
-					{
-						id: 4,
-						title: 'Phone',
-						details: '555 8888 888',
-					},
+            link: true,
+						details: 'https://www.dicoding.com/learningpaths/41',
+					}
 				],
-				objectivesHeading: 'Objective',
+				objectivesHeading: 'Description',
 				objectivesDetails:
 					'Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio, natus! Quibusdam enim quod in esse, mollitia molestias incidunt quas ipsa accusamus veniam.',
 				technologies: [

@@ -1,7 +1,7 @@
 <script>
 import feather from 'feather-icons';
 import FooterCopyright from './FooterCopyright.vue';
-import { socialLinks } from '../../data/socialLinks';
+import { socialLinks } from '@/data/socialLinks';
 
 export default {
 	components: { FooterCopyright },
