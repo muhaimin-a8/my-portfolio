@@ -1,4 +1,5 @@
 <script>
+const old = (new Date()).getFullYear() - 2005
 export default {
 	setup() {
 		return {
@@ -6,8 +7,13 @@ export default {
 				{
 					id: 1,
 					bio:
-						'Hi, I am an experienced BackEnd Developer and DevOps Engineer who is certified by Dicoding Indonesia. I possess expertise in developing innovative and efficient technical solutions. I have a deep understanding of backend application development, infrastructure management, and process automation. I firmly believe that with my experience and skills, I can make a significant contribution to your development team.',
-				}
+						'Hi, I am a ' + old + ' years old self-taught BackEnd Developer with expert certification by Dicoding Indonesia. Expertise in golang, javascript, restAPI, NodeJs, postgreSQL, Docker, etc. I\'am fast learner, technology enthusiasm.',
+				},
+        {
+          id: 2,
+          bio:
+              'Passionate about technology, programming, machine learning, and also backend development',
+        }
 			],
 		};
 	},

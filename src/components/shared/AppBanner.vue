@@ -36,7 +36,7 @@ export default {
 			<p
 				class="font-general-medium mt-2 text-lg sm:text-xl  xl:text-2xl text-center sm:text-left leading-none text-gray-400"
 			>
-				A BackEnd Developer & Technology Enthusiasm
+				A self-taught BackEnd Developer
 			</p>
 			<div class="flex justify-center sm:block">
 				<a
