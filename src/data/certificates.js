@@ -34,4 +34,32 @@ export default [
         img: require('@/assets/images/certificates/devops-basic.jpg'),
         link: "https://www.dicoding.com/certificates/1OP85Y63QPQK",
     },
+    {
+        id: 6,
+        title: 'JavaScript Basic',
+        issuedBy: 'Dicoding Indonesia',
+        img: require('@/assets/images/certificates/dasar_js.jpg'),
+        link: "https://www.dicoding.com/certificates/1OP85Y63QPQK",
+    },
+    {
+        id: 7,
+        title: 'SOLID Principles',
+        issuedBy: 'Dicoding Indonesia',
+        img: require('@/assets/images/certificates/solid.jpg'),
+        link: "https://www.dicoding.com/certificates/1OP85Y63QPQK",
+    },
+    {
+        id: 8,
+        title: 'BackEnd Developer Beginner',
+        issuedBy: 'Dicoding Indonesia',
+        img: require('@/assets/images/certificates/backend-beginner.jpg'),
+        link: "https://www.dicoding.com/certificates/1OP85Y63QPQK",
+    },
+    {
+        id: 9,
+        title: 'CI/CD Implementtation',
+        issuedBy: 'Dicoding Indonesia',
+        img: require('@/assets/images/certificates/cicd-implementation.jpg'),
+        link: "https://www.dicoding.com/certificates/1OP85Y63QPQK",
+    },
 ]

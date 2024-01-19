@@ -20,7 +20,7 @@ export default {
     >
       {{ clientsHeading }}
     </p>
-    <div class="grid grid-cols-2 sm:grid-cols-3 mt-10 sm:mt-14 gap-6">
+    <div class="grid grid-cols-1 sm:grid-cols-3 mt-10 sm:mt-14 gap-6">
       <AboutCertificateSingle
           v-for="cert in certificates"
           :key="cert.id"
