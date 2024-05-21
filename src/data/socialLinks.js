@@ -12,12 +12,6 @@ export const socialLinks = [
 		url: 'https://github.com/muhaimin-a8',
 	},
 	{
-		id: 3,
-		name: 'Instagram',
-		icon: 'instagram',
-		url: 'https://www.instagram.com/muhaimin_a8/',
-	},
-	{
 		id: 4,
 		name: 'LinkedIn',
 		icon: 'linkedin',
